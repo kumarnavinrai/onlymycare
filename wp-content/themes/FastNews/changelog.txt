@@ -1,0 +1,2 @@
+2013-03-23 - Version 1.0
+* Initial theme release!

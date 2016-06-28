@@ -1,0 +1,1881 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FBConnect Wordpress plugin 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-06 09:05+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Javier Reyes <jreyes@sixjumps.com>\n"
+"Language-Team: Sociable <jreyes@sociable.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: community.php:22
+msgid "Community friends"
+msgstr "Amigos en la comunidad"
+
+#: community.php:36
+#: fbConnectCore.php:205
+msgid "Community"
+msgstr "Comunidad"
+
+#: community.php:36
+msgid "members"
+msgstr "miembros"
+
+#: community.php:52
+msgid "Previous page"
+msgstr "P&aacute;gina anterior"
+
+#: community.php:55
+msgid "Next page"
+msgstr "P&aacute;gina siguiente"
+
+#: community_comments.php:14
+msgid "Sent by"
+msgstr "Enviado por"
+
+#: fbConnectCore.php:210
+msgid "Invite your friends"
+msgstr "Invita a tus amigos!"
+
+#: fbConnectInfo.php:18
+msgid "Sociable! - Facebook Connect Wordpress Plugin"
+msgstr "Sociable! - Facebook Connect Wordpress Plugin"
+
+#: fbConnectInterface.php:39
+#: fbConnectInterface.php:42
+#: fbConnectInterface.php:45
+#: fbConnectInterface.php:885
+msgid "Share"
+msgstr "Compartir"
+
+#: fbConnectInterface.php:341
+#, fuzzy
+msgid "Share with"
+msgstr "Compartir"
+
+#: fbConnectInterface.php:349
+#: fbConnectInterface.php:368
+msgid "Powered by"
+msgstr "Desarrollado por"
+
+#: fbConnectInterface.php:377
+#: fbConnectInterface.php:379
+msgid "Main post image"
+msgstr "Imagen principal"
+
+#: fbConnectInterface.php:382
+#: fbConnectInterface.php:384
+msgid "Facebook OpenGraph"
+msgstr "Facebook OpenGraph"
+
+#: fbConnectInterface.php:387
+msgid "Facebook Theme template"
+msgstr "Tema a utilizar en Facebook"
+
+#: fbConnectInterface.php:390
+#: fbConnectInterface.php:392
+msgid "Facebook Stream"
+msgstr "Actividad en Facebook"
+
+#: fbConnectInterface.php:430
+msgid "Publish to facebook"
+msgstr "Publicar el comentario en Facebook "
+
+#: fbConnectInterface.php:432
+msgid "Link to Canvas app"
+msgstr "Enlazar al canvas facebook"
+
+#: fbConnectInterface.php:434
+msgid "Publish as online flash"
+msgstr "Publicar como flash online"
+
+#: fbConnectInterface.php:436
+msgid "Comment"
+msgstr "Comentarios"
+
+#: fbConnectInterface.php:503
+msgid "Save"
+msgstr "Guardar"
+
+#: fbConnectInterface.php:504
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: fbConnectInterface.php:708
+msgid "Page Theme"
+msgstr "Tema de la página"
+
+#: fbConnectInterface.php:726
+msgid "Page Template"
+msgstr "Page template"
+
+#: fbConnectInterface.php:728
+msgid "Default Template"
+msgstr "Plantilla por defecto"
+
+#: fbConnectInterface.php:739
+#: fbConnectInterface.php:740
+msgid "Order"
+msgstr "Orden"
+
+#: fbConnectInterface.php:741
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#: fbConnectInterface.php:800
+msgid "OpenGraph Type:"
+msgstr "Tipo OpenGraph"
+
+#: fbConnectInterface.php:807
+msgid "Page Admins:"
+msgstr "Administradores de la página:"
+
+#: fbConnectInterface.php:813
+msgid "Facebook user ID:"
+msgstr "Facebook user ID:"
+
+#: fbConnectInterface.php:826
+msgid "Check fan page user."
+msgstr "Comprobar si el usaurio es fan."
+
+#: fbConnectInterface.php:833
+msgid "Use thick box."
+msgstr "Utilizar diálogo emergente (thick box)"
+
+#: fbConnectInterface.php:838
+msgid "Page ID:"
+msgstr "ID de la página:"
+
+#: fbConnectInterface.php:845
+msgid "Page name:"
+msgstr "Nombre de la página:"
+
+#: fbConnectInterface.php:848
+msgid "Page URL:"
+msgstr "URL de la página:"
+
+#: fbConnectInterface.php:852
+#: fbConnectOpenGraph.php:107
+msgid "Select page"
+msgstr "Seleccionar página"
+
+#: fbConnectInterface.php:856
+#, fuzzy
+msgid "Header fan text:"
+msgstr "Texto de cabecera:"
+
+#: fbConnectInterface.php:858
+#, fuzzy
+msgid "Footer fan text:"
+msgstr "Texto pie:"
+
+#: fbConnectInterface.php:882
+#: fbConnectInterface.php:893
+msgid "Main options"
+msgstr "Opciones principales"
+
+#: fbConnectInterface.php:883
+msgid "Comments"
+msgstr "Comentarios"
+
+#: fbConnectInterface.php:884
+msgid "Open Graph"
+msgstr "Open Graph"
+
+#: fbConnectInterface.php:886
+#: fbConnectRegister.php:46
+msgid "Registration form"
+msgstr "Formulario registro"
+
+#: fbConnectInterface.php:889
+msgid "Page tab & canvas"
+msgstr "Page tab & canvas"
+
+#: fbConnectInterface.php:890
+msgid "Offline options"
+msgstr "Opciones offline"
+
+#: fbConnectInterface.php:897
+msgid "Sociable!"
+msgstr ""
+
+#: fbConnectInterface.php:931
+msgid "Migration done..."
+msgstr "Migración realizada..."
+
+#: fbConnectInterface.php:951
+#: fbConnectRegister.php:32
+msgid "At least one of Facebook Connector options was NOT updated"
+msgstr "Al menos una de las opciones de Facebook Connector no se ha actualizado."
+
+#: fbConnectInterface.php:953
+#: fbConnectRegister.php:34
+msgid "Facebook Connector options updated"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: fbConnectInterface.php:965
+#: fbConnectOpenGraph.php:39
+#: fbConnectRegister.php:46
+#: fbConnectShare.php:46
+#, fuzzy
+msgid "Facebook Configuration"
+msgstr "Configuración de la aplicaci&oacute;n Facebook:"
+
+#: fbConnectInterface.php:970
+msgid "Facebook Application Configuration"
+msgstr "Configuración de la aplicaci&oacute;n Facebook:"
+
+#: fbConnectInterface.php:973
+msgid "Facebook App. Config."
+msgstr "Configuraci&oacute;n aplicaci&oacute;n Facebook:"
+
+#: fbConnectInterface.php:975
+msgid "Create a new Facebook Application"
+msgstr "Crear una nueva aplicación facebook."
+
+#: fbConnectInterface.php:976
+msgid "View tutorial"
+msgstr "Ver tutorial"
+
+#: fbConnectInterface.php:981
+#, fuzzy
+msgid "Enable Facebook login:"
+msgstr "Página de Facebook:"
+
+#: fbConnectInterface.php:990
+msgid "Migrate user data"
+msgstr "Migrar datos de usuario"
+
+#: fbConnectInterface.php:992
+msgid "Migrate from wp-facebookconnect"
+msgstr "Migrar plugin wp-facebookconnect"
+
+#: fbConnectInterface.php:992
+msgid "(It is strongly recommended to do a backup before)"
+msgstr "(Es muy recomendable hacer una copia de seguridad)"
+
+#: fbConnectInterface.php:997
+msgid "Facebook App ID:"
+msgstr "Facebook App ID:"
+
+#: fbConnectInterface.php:1003
+msgid "Facebook API Key:"
+msgstr "Facebook API Key (Clave API):"
+
+#: fbConnectInterface.php:1009
+msgid "Facebook API Secret:"
+msgstr "Facebook API Secret (Secreto):"
+
+#: fbConnectInterface.php:1015
+#, fuzzy
+msgid "Language:"
+msgstr "Longitud:"
+
+#: fbConnectInterface.php:1035
+msgid "Avatar link:"
+msgstr "Enlace del avatar:"
+
+#: fbConnectInterface.php:1046
+msgid "Use ThickBox:"
+msgstr "Utilizar emergente:"
+
+#: fbConnectInterface.php:1051
+msgid "Load user info on a ThickBox."
+msgstr "Cargar info del usuario en un diálogo emergente."
+
+#: fbConnectInterface.php:1057
+msgid "Avatar FB logo:"
+msgstr "Avatar FB logo:"
+
+#: fbConnectInterface.php:1062
+msgid "Show Facebook logo in user avatars."
+msgstr "Mostrar logo de Facebook en el avatar de los usuarios."
+
+#: fbConnectInterface.php:1067
+msgid "Remove Wordpress admin bar:"
+msgstr "Eliminar barra de administración de Wordpress"
+
+#: fbConnectInterface.php:1075
+msgid "Enable SSL link rewrite:"
+msgstr ""
+
+#: fbConnectInterface.php:1083
+msgid "Log level:"
+msgstr "Nivel de trazas:"
+
+#: fbConnectInterface.php:1094
+msgid "View log"
+msgstr "Ver trazas"
+
+#: fbConnectInterface.php:1094
+msgid "Clean log"
+msgstr "Limpiar log"
+
+#: fbConnectInterface.php:1104
+#: fbConnectOpenGraph.php:164
+#: fbConnectRegister.php:128
+#: fbConnectShare.php:240
+msgid "Update Configuration"
+msgstr "Actualizar configuracion"
+
+#: fbConnectLogic.php:312
+#, fuzzy
+msgid "Facebook needs PHP 5"
+msgstr "Perfil Facebook"
+
+#: fbConnectLogic.php:315
+msgid "Facebook needs the CURL PHP extension"
+msgstr "Facebook necesita la extensión CURL de PHP"
+
+#: fbConnectLogic.php:318
+msgid "Facebook needs the JSON PHP extension"
+msgstr "Facebook necesita la extensión JSON de PHP"
+
+#: fbConnectLogic.php:332
+msgid "Database tables could not be created. Check your database user privileges."
+msgstr ""
+
+#: fbConnectLogic.php:471
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>ERROR</strong>:Por favor, indica una dirección de correo electrónico."
+
+#: fbConnectLogic.php:473
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>ERROR</strong>: La dirección de correo no es válida."
+
+#: fbConnectLogic.php:476
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>ERROR</strong>: Esa dirección de correo ya está en uso, por favor, seleccione otra."
+
+#: fbConnectLogic.php:1698
+#: fbConnectLogic_old.php:1316
+msgid "User profile"
+msgstr "Perfil del usuario"
+
+#: fbConnectLogic.php:1872
+#, fuzzy
+msgid "commented on"
+msgstr "Formulario de comentarios:"
+
+#: fbConnectOpenGraph.php:39
+msgid "Open Graph Options"
+msgstr "Opciones OpenGraph"
+
+#: fbConnectOpenGraph.php:43
+msgid "Open Graph MetaData"
+msgstr "Metainformación de OpenGraph"
+
+#: fbConnectOpenGraph.php:65
+msgid "OpenGraph type:"
+msgstr "Tipo de OpenGraph:"
+
+#: fbConnectOpenGraph.php:73
+#, fuzzy
+msgid "OpenGraph namespace:"
+msgstr "Tipo OpenGraph"
+
+#: fbConnectOpenGraph.php:79
+#, fuzzy
+msgid "Default OpenGraph post type:"
+msgstr "Tipo de OpenGraph:"
+
+#: fbConnectOpenGraph.php:85
+msgid "Facebook admin IDs:"
+msgstr "Facebook admin ids"
+
+#: fbConnectOpenGraph.php:91
+msgid "Facebook page:"
+msgstr "Página de Facebook:"
+
+#: fbConnectOpenGraph.php:95
+msgid "ID:"
+msgstr "ID:"
+
+#: fbConnectOpenGraph.php:102
+msgid "Name:"
+msgstr "Nombre:"
+
+#: fbConnectOpenGraph.php:104
+msgid "URL:"
+msgstr "Direcci&oacute;n:"
+
+#: fbConnectOpenGraph.php:107
+msgid "Add tab to my page"
+msgstr "Añadir pestaña a mi página Facebook"
+
+#: fbConnectOpenGraph.php:113
+msgid "Default image:"
+msgstr "Imagen por defecto:"
+
+#: fbConnectOpenGraph.php:119
+msgid "Latitude:"
+msgstr "Latitud:"
+
+#: fbConnectOpenGraph.php:125
+msgid "Longitude:"
+msgstr "Longitud:"
+
+#: fbConnectOpenGraph.php:131
+msgid "Street address:"
+msgstr "Calle / dirección:"
+
+#: fbConnectOpenGraph.php:137
+msgid "Locality:"
+msgstr "Localidad:"
+
+#: fbConnectOpenGraph.php:143
+msgid "Region:"
+msgstr "Región:"
+
+#: fbConnectOpenGraph.php:149
+msgid "Postal code:"
+msgstr "Código postal:"
+
+#: fbConnectOpenGraph.php:155
+msgid "Country name:"
+msgstr "País"
+
+#: fbConnectRegister.php:52
+#, fuzzy
+msgid "Perms to request:"
+msgstr "Términos de uso:"
+
+#: fbConnectRegister.php:55
+msgid "Perms to request on user first login (comma separated list) (email,user_about_me,user_birthday,user_location)."
+msgstr "Permisos a solicitar al iniciar sesión de usuario (lista separada por comas)  (email,user_about_me,user_birthday,user_location)."
+
+#: fbConnectRegister.php:59
+#, fuzzy
+msgid "Show Registration:"
+msgstr "Campos de registro:"
+
+#: fbConnectRegister.php:63
+#, fuzzy
+msgid "Show registration form"
+msgstr "Campos de registro:"
+
+#: fbConnectRegister.php:67
+#, fuzzy
+msgid "Hide edit profile:"
+msgstr "Editar perfil"
+
+#: fbConnectRegister.php:71
+msgid "Hide edit user profile link"
+msgstr "Ocultar enlace de editar perfil"
+
+#: fbConnectRegister.php:76
+msgid "Registration form fields:"
+msgstr "Campos de registro:"
+
+#: fbConnectRegister.php:112
+msgid "Terms of use:"
+msgstr "Términos de uso:"
+
+#: fbConnectRegister.php:116
+msgid " "
+msgstr ""
+
+#: fbConnectRegister.php:118
+msgid "The site Terms of use page."
+msgstr "Página con los términos de uso del sitio."
+
+#: fbConnectShare.php:46
+msgid "Share options"
+msgstr "Opciones para compartir"
+
+#: fbConnectShare.php:54
+msgid "Post Head Share Options"
+msgstr "Opciones de cabecera al compartir"
+
+#: fbConnectShare.php:59
+msgid "Add share button:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:63
+#, fuzzy
+msgid "Add Facebook share button to post head"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:68
+#, fuzzy
+msgid "Add like button:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:72
+#, fuzzy
+msgid "Add Facebook like button to post head"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:76
+#, fuzzy
+msgid "Add send button:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:80
+#, fuzzy
+msgid "Add Facebook send button to post head"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:84
+#: fbConnectShare.php:146
+#, fuzzy
+msgid "Add google +1 button:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:88
+#, fuzzy
+msgid "Add google +1 button to post head"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:92
+#, fuzzy
+msgid "Add twitter share:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:96
+#, fuzzy
+msgid "Add Twitter share button to post head"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:100
+#, fuzzy
+msgid "Add Linked In share:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:104
+#, fuzzy
+msgid "Add Linked In share button to post head"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:109
+#, fuzzy
+msgid "Post Footer Share Options"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:113
+#, fuzzy
+msgid "Add Facebook share button:"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:117
+#, fuzzy
+msgid "Add Facebook share button to post footer"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:122
+#, fuzzy
+msgid "Add Facebook like button:"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:126
+#, fuzzy
+msgid "Add Facebook like button to post footer"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:130
+#, fuzzy
+msgid "Add Facebook send button:"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:134
+#, fuzzy
+msgid "Add Facebook send button to post footer"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:138
+msgid "Hide faces under like:"
+msgstr "Ocultar fotos:"
+
+#: fbConnectShare.php:142
+msgid "Hide friends faces under like footer button"
+msgstr "Ocultar fotos de amigos bajo el botón de me gusta"
+
+#: fbConnectShare.php:150
+#, fuzzy
+msgid "Add google +1 button to post footer"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:154
+#, fuzzy
+msgid "Add twitter share button:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:158
+#, fuzzy
+msgid "Add Twitter share button to post footer"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:162
+#, fuzzy
+msgid "Add Linked In share button:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:166
+#, fuzzy
+msgid "Add Linked In share button to post footer"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:171
+msgid "General Share Options"
+msgstr "Opciones generales al compartir"
+
+#: fbConnectShare.php:175
+#, fuzzy
+msgid "Add share to page headers:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:179
+#, fuzzy
+msgid "Add share buttons to page header(not only posts)"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:183
+#, fuzzy
+msgid "Add share to page footers:"
+msgstr "Añadir compartir:"
+
+#: fbConnectShare.php:187
+msgid "Add share buttons to page footers (not only posts)"
+msgstr "Añadir botón de compartir en el pie de página (no solo posts)"
+
+#: fbConnectShare.php:191
+msgid "Hide share in home headers:"
+msgstr "Ocultar compartir en cabeceras de la home:"
+
+#: fbConnectShare.php:195
+#, fuzzy
+msgid "Hide share buttons in home header"
+msgstr "Añadir botón de compartir en Facebook"
+
+#: fbConnectShare.php:199
+msgid "Hide share in home footers:"
+msgstr "Ocultar compartir en los pies la home:"
+
+#: fbConnectShare.php:203
+msgid "Hide share buttons in home footers"
+msgstr "Ocultar botones de compartir en los pies de post de la página de inicio"
+
+#: fbConnectShare.php:207
+#, fuzzy
+msgid "Twitter user:"
+msgstr "Términos de uso:"
+
+#: fbConnectShare.php:210
+msgid "Twitter user for shares (via @youruser)"
+msgstr "Usuario de Twitter a utilizar al compartir (via @youruser)"
+
+#: fbConnectShare.php:214
+#, fuzzy
+msgid "Custom head styles:"
+msgstr "Personalizar cabecera"
+
+#: fbConnectShare.php:217
+#: fbConnectShare.php:224
+msgid "CSS custom styles"
+msgstr "Estilos CSS personalizados"
+
+#: fbConnectShare.php:221
+msgid "Custom footer styles:"
+msgstr "Estilos personalizados en el pie:"
+
+#: fbConnectShare.php:228
+msgid "Track events with Google Analytics:"
+msgstr "Monitorizar eventos con Google Analitycs:"
+
+#: fbConnectShare.php:233
+msgid "Before the activation of event tracking, you need to configure Google Analytics on your site."
+msgstr "Antes de activar la monitorización de eventos, es necesario configurar Google Analitycs en el sitio."
+
+#: fbConnectTemplates.php:57
+#, fuzzy
+msgid "Facebook Open Graph Options"
+msgstr "Configuraci&oacute;n de Facebook Connector"
+
+#: fbConnectTemplates.php:61
+#, fuzzy
+msgid "Feed comment template"
+msgstr "Plantillas de comentarios"
+
+#: fbConnectTemplates.php:77
+msgid "Automatic Approval:"
+msgstr "Aprobaci&oacute;n autom&aacute;tica:"
+
+#: fbConnectTemplates.php:81
+msgid "Enable comment auto-approval"
+msgstr "Habilitar aprobaci&oacute;n autom&aacute;tica de los comentarios"
+
+#: fbConnectTemplates.php:85
+msgid "Comment Form:"
+msgstr "Formulario de comentarios:"
+
+#: fbConnectTemplates.php:90
+msgid "Allow send user comments to Facebook."
+msgstr "Permitir el env&iacute;o de comentarios a Facebook."
+
+#: fbConnectTemplates.php:95
+#, fuzzy
+msgid "Show comments login:"
+msgstr "Comentarios del usuario"
+
+#: fbConnectTemplates.php:100
+#, fuzzy
+msgid "Show Facebook login button at comments."
+msgstr "Mostrar logo de Facebook en el avatar de los usuarios."
+
+#: fbConnectTemplates.php:111
+#, fuzzy
+msgid "Caption:"
+msgstr "Población:"
+
+#: fbConnectTemplates.php:117
+msgid "Description:"
+msgstr "Descripción:"
+
+#: fbConnectTemplates.php:123
+msgid "Add main image selector:"
+msgstr "Añadir selector de imagen principal:"
+
+#: fbConnectTemplates.php:127
+#: fbConnectTemplates.php:135
+msgid "Allow to select a default image for each post/page"
+msgstr "Permite seleccionar una imagen por defecto, para cada post/página"
+
+#: fbConnectTemplates.php:131
+msgid "Add Wordpress 2.9 post Thumbnails:"
+msgstr "Añadir Wordpress 2.9 Thumbnails:"
+
+#: fbConnectTemplates.php:140
+#, fuzzy
+msgid "Show Facebook Comments:"
+msgstr "Mostrar logo de Facebook en el avatar de los usuarios."
+
+#: fbConnectTemplates.php:144
+#, fuzzy
+msgid "Show Facebook comments widgets"
+msgstr "Mostrar logo de Facebook en el avatar de los usuarios."
+
+#: fbConnectTemplates.php:148
+#, fuzzy
+msgid "FB comments width:"
+msgstr "Comentarios del usuario"
+
+#: fbConnectTemplates.php:154
+msgid "FB comments canvas width:"
+msgstr "Ancho de FB Comments en el canvas de Facebook:"
+
+#: fbConnectTemplates.php:160
+#, fuzzy
+msgid "FB comments num posts:"
+msgstr "Plantillas de comentarios"
+
+#: fbConnectTemplates.php:166
+#, fuzzy
+msgid "FB comments in home:"
+msgstr "Comentarios del usuario"
+
+#: fbConnectTemplates.php:173
+msgid "FB comments home num posts:"
+msgstr "FB Comments número de posts:"
+
+#: fbConnectTemplates.php:179
+msgid "Hide Wordpress Comments:"
+msgstr "Ocultar comentarios de Wordpress:"
+
+#: fbConnectTemplates.php:186
+#, fuzzy
+msgid "FB Comments color:"
+msgstr "Formulario de comentarios:"
+
+#: fbConnectTemplates.php:196
+#, fuzzy
+msgid "FB Comments id:"
+msgstr "Comentarios del usuario"
+
+#: fbconnect_ajax.php:38
+#, fuzzy
+msgid "You are almost there!"
+msgstr "No estas autorizdo a borrar esta página"
+
+#: fbconnect_ajax.php:40
+msgid "We have send you an email with a confirmation code and a link."
+msgstr "Te hemos enviado un correo electrónico con un enlace para la activación de tu cuenta."
+
+#: fbconnect_ajax.php:43
+#, fuzzy
+msgid "Your profile data has been updated."
+msgstr "Tu página ha sido guardada"
+
+#: fbconnect_comments.php:55
+#, fuzzy
+msgid "Facebook comments"
+msgstr "Comentarios del usuario"
+
+#: fbconnect_feed.php:74
+msgid "By"
+msgstr "Por"
+
+#: fbconnect_loginpopup.php:24
+msgid "Log in with your social platform"
+msgstr "Accede con tu plataforma social"
+
+#: fbconnect_loginpopup.php:25
+msgid "Log In with your user/password"
+msgstr "Accede con tu usuario y contraseña"
+
+#: fbconnect_register.php:170
+msgid "Nickname:"
+msgstr "Alias:"
+
+#: fbconnect_register.php:179
+msgid "Email:"
+msgstr "eMail:"
+
+#: fbconnect_register.php:188
+msgid "Confirm email:"
+msgstr "Confirmar email:"
+
+#: fbconnect_register.php:201
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: fbconnect_register.php:214
+msgid "Confirm password:"
+msgstr "Confirmar contraseña:"
+
+#: fbconnect_register.php:220
+msgid "Sex:"
+msgstr "Sexo:"
+
+#: fbconnect_register.php:223
+msgid "Male"
+msgstr "Hombre"
+
+#: fbconnect_register.php:224
+msgid "Female"
+msgstr "Mujer"
+
+#: fbconnect_register.php:236
+msgid "Birdthdate:"
+msgstr "Fecha nacimiento:"
+
+#: fbconnect_register.php:239
+msgid "Day"
+msgstr "Día"
+
+#: fbconnect_register.php:249
+msgid "Month"
+msgstr "Mes"
+
+#: fbconnect_register.php:261
+msgid "Year"
+msgstr "Año"
+
+#: fbconnect_register.php:275
+msgid "Web:"
+msgstr "Web:"
+
+#: fbconnect_register.php:281
+msgid "City:"
+msgstr "Ciudad:"
+
+#: fbconnect_register.php:287
+#, fuzzy
+msgid "State:"
+msgstr "Estado:"
+
+#: fbconnect_register.php:293
+#, fuzzy
+msgid "Country:"
+msgstr "Comunidad"
+
+#: fbconnect_register.php:299
+msgid "ZIP:"
+msgstr "CP:"
+
+#: fbconnect_register.php:305
+msgid "Company:"
+msgstr "Empresa:"
+
+#: fbconnect_register.php:311
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: fbconnect_register.php:317
+#, fuzzy
+msgid "Twitter:"
+msgstr "T&iacute;tulo"
+
+#: fbconnect_register.php:323
+msgid "About me:"
+msgstr "Sobre mi:"
+
+#: fbconnect_register.php:331
+msgid "English"
+msgstr "Ingles"
+
+#: fbconnect_register.php:332
+msgid "Spanish"
+msgstr "Español"
+
+#: fbconnect_register.php:347
+msgid "/privacy-policy"
+msgstr "/politica-privacidad"
+
+#: fbconnect_register.php:352
+msgid "I agree to the Terms of Use and Privacy Policy"
+msgstr "Estoy de acuerdo con los terminos de uso"
+
+#: fbconnect_register.php:360
+msgid "Send"
+msgstr "Enviar"
+
+#: fbconnect_register.php:399
+msgid "Please enter your name"
+msgstr "Por favor, indica tu nombre"
+
+#: fbconnect_register.php:400
+msgid "Your name must consist of at least 5 characters"
+msgstr "Tu nombre debe tener una longitud mínima de 5 caracteres."
+
+#: fbconnect_register.php:401
+msgid "Your name must consist of a max 250 characters"
+msgstr "Tu nombre debe tener una longitud máxima de 250 caracteres."
+
+#: fbconnect_register.php:403
+msgid "Please enter a valid email"
+msgstr "Por favor, indica un email válido"
+
+#: fbconnect_register.php:405
+msgid "Please your email again"
+msgstr "Por favor, indica tu email de nuevo"
+
+#: fbconnect_register.php:406
+msgid "Please enter the same email as above"
+msgstr "Debes repetir el mismo email anterior"
+
+#: fbconnect_register.php:409
+#: fbconnect_register.php:413
+msgid "Please provide a password"
+msgstr "Por favor, indica una contraseña"
+
+#: fbconnect_register.php:410
+#: fbconnect_register.php:414
+msgid "Your password must be at least 5 characters long"
+msgstr "Tu clave debe tener una longitud mínima de 5 caracteres"
+
+#: fbconnect_register.php:415
+msgid "Please enter the same password as above"
+msgstr "Debes repetir la misma clave anterior"
+
+#: fbconnect_register.php:418
+#, fuzzy
+msgid "Please provide a birth date"
+msgstr "Por favor, indica una clave"
+
+#: fbconnect_register.php:419
+msgid "You must be 14 or older"
+msgstr "Debes tener 14 años de edad como mínimo"
+
+#: fbconnect_sidebar.php:27
+#: fbconnect_sidebar.php:29
+#: fbconnect_sidebar.php:45
+#: fbconnect_sidebar.php:47
+#: fbconnect_widget_login.php:86
+#: fbconnect_widget_login.php:88
+#: fbconnect_widget_login.php:90
+#: fbconnect_widget_login.php:92
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+#: fbconnect_sidebar.php:31
+#: fbconnect_widget_login.php:99
+msgid "Invite"
+msgstr "Invitar"
+
+#: fbconnect_sidebar.php:32
+#: fbconnect_sidebar.php:49
+#: fbconnect_widget_login.php:102
+msgid "Logout"
+msgstr "Salir"
+
+#: fbconnect_sidebar.php:65
+#: fbconnect_sidebar.php:70
+msgid "Login with Facebook:"
+msgstr "Acceder con Facebook"
+
+#: fbconnect_tab.php:75
+#: fbconnect_widget_login.php:188
+msgid "Log In"
+msgstr "Acceder"
+
+#: fbconnect_widget.php:48
+msgid "Visitors"
+msgstr "Visitas"
+
+#: fbconnect_widget.php:49
+#: fbconnect_widget.php:115
+msgid "Friends"
+msgstr "Amigos"
+
+#: fbconnect_widget.php:73
+#: fbconnect_widget.php:75
+#: fbconnect_widget.php:105
+#: fbconnect_widget_lastfriends.php:35
+#: fbconnect_widget_lastusers.php:19
+msgid "view more..."
+msgstr "Ver m&aacute;s..."
+
+#: fbconnect_widget.php:95
+#: fbconnect_widget_lastfriends.php:24
+msgid "You don't have friends on this site"
+msgstr "No tienes amigos en este sitio"
+
+#: fbconnect_widget.php:96
+#: fbconnect_widget_lastfriends.php:25
+msgid "Invite your friends!"
+msgstr "Invita a tus amigos!"
+
+#: fbconnect_widget.php:100
+#, fuzzy
+msgid "To see your friends on this site, you must be logged in"
+msgstr "Para poder ver los amigos en este sitio, debes identificarte con Facebook:"
+
+#: fbconnect_widget.php:116
+msgid "Full site"
+msgstr "Todo"
+
+#: fbconnect_widget_login.php:178
+#: fbconnect_widget_login.php:179
+msgid "Your email"
+msgstr "Correo electrónico"
+
+#: fbconnect_widget_login.php:182
+#: fbconnect_widget_login.php:183
+msgid "Password"
+msgstr "Contraseña"
+
+#: fbconnect_widget_login.php:195
+msgid "Not registered?"
+msgstr "¿No estás registrado?"
+
+#: fbconnect_widget_login.php:195
+#, fuzzy
+msgid "User registration"
+msgstr "Registro personalizado:"
+
+#: fbconnect_widget_login.php:195
+#, fuzzy
+msgid "Register here"
+msgstr "Formulario registro"
+
+#: fbUserPages.php:27
+msgid "Clear current selection"
+msgstr "Limpiar selección actual"
+
+#: fbUserPages.php:47
+msgid "Select"
+msgstr "Seleccionar"
+
+#: gConnectInterface.php:29
+#, fuzzy
+msgid "At least one of Google Connector options was NOT updated"
+msgstr "Al menos una de las opciones de Facebook Connector no se ha actualizado."
+
+#: gConnectInterface.php:31
+#, fuzzy
+msgid "Google Connector options updated"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: gConnectInterface.php:44
+#, fuzzy
+msgid "Google Configuration"
+msgstr "Configuración de la aplicaci&oacute;n Facebook:"
+
+#: gConnectInterface.php:49
+#, fuzzy
+msgid "Google Application Configuration"
+msgstr "Configuración de la aplicaci&oacute;n Facebook:"
+
+#: gConnectInterface.php:52
+msgid "Enable Google login:"
+msgstr ""
+
+#: gConnectInterface.php:60
+#, fuzzy
+msgid "Google App. Config."
+msgstr "Configuraci&oacute;n aplicaci&oacute;n Facebook:"
+
+#: gConnectInterface.php:62
+msgid "Create a new Google Application and activate Google+ service"
+msgstr ""
+
+#: gConnectInterface.php:63
+msgid "Your Google redirect URI (copy and paste in the Google Application configuration):"
+msgstr ""
+
+#: gConnectInterface.php:69
+msgid "Google client ID:"
+msgstr ""
+
+#: gConnectInterface.php:75
+msgid "Google client secret:"
+msgstr ""
+
+#: gConnectInterface.php:81
+#, fuzzy
+msgid "Developer API Key:"
+msgstr "Facebook API Key (Clave API):"
+
+#: invitefriends.php:24
+msgid "Become a Member!"
+msgstr "Visitar el sitio"
+
+#: invitefriends.php:33
+msgid "Select the friends you want to invite."
+msgstr "Seleccionar los amigos a los que quieres invitar"
+
+#: myhome.php:24
+msgid "User comments"
+msgstr "Comentarios del usuario"
+
+#: tConnectInterface.php:27
+#, fuzzy
+msgid "At least one of Twitter Connector options was NOT updated"
+msgstr "Al menos una de las opciones de Facebook Connector no se ha actualizado."
+
+#: tConnectInterface.php:29
+#, fuzzy
+msgid "Twitter Connector options updated"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: tConnectInterface.php:42
+#, fuzzy
+msgid "Twitter Configuration"
+msgstr "Actualizar configuracion"
+
+#: tConnectInterface.php:47
+#, fuzzy
+msgid "Twitter Application Configuration"
+msgstr "Configuración de la aplicaci&oacute;n Facebook:"
+
+#: tConnectInterface.php:50
+msgid "Enable Twitter login:"
+msgstr ""
+
+#: tConnectInterface.php:58
+#, fuzzy
+msgid "Twitter App. Config."
+msgstr "Configuraci&oacute;n aplicaci&oacute;n Facebook:"
+
+#: tConnectInterface.php:60
+#, fuzzy
+msgid "Create a new Twitter Application"
+msgstr "Crear una nueva aplicación facebook."
+
+#: tConnectInterface.php:61
+msgid "Admin your Twitter Apps"
+msgstr ""
+
+#: tConnectInterface.php:66
+#, fuzzy
+msgid "Twitter Consumer key:"
+msgstr "Términos de uso:"
+
+#: tConnectInterface.php:72
+#, fuzzy
+msgid "Twitter Consumer secret:"
+msgstr "Términos de uso:"
+
+#: userprofile.php:29
+msgid "Member since:"
+msgstr "Miembro desde:"
+
+#: userprofile.php:30
+msgid "Website URL:"
+msgstr "URL del sitio:"
+
+#: userprofile.php:33
+msgid "Facebook profile"
+msgstr "Perfil Facebook"
+
+#: Widget_ActivityRecommend.php:5
+msgid "Faceboook Activity Widget"
+msgstr "Faceboook Activity Social Plugin"
+
+#: Widget_ActivityRecommend.php:6
+#: Widget_ActivityRecommend.php:59
+#, fuzzy
+msgid "Facebook Activity"
+msgstr "Facebook API Secret (Secreto):"
+
+#: Widget_ActivityRecommend.php:85
+#: Widget_CommentsFeed.php:111
+#: Widget_FacebookConnector.php:103
+#: Widget_FanBox.php:119
+#: Widget_FriendsFeed.php:105
+#: Widget_LastFriends.php:99
+msgid "Title:"
+msgstr "T&iacute;tulo"
+
+#: Widget_ActivityRecommend.php:88
+#, fuzzy
+msgid "Site:"
+msgstr "T&iacute;tulo"
+
+#: Widget_ActivityRecommend.php:91
+#: Widget_FanBox.php:152
+msgid "Width:"
+msgstr "Ancho:"
+
+#: Widget_ActivityRecommend.php:94
+#: Widget_FanBox.php:157
+msgid "Height:"
+msgstr "Alto:"
+
+#: Widget_ActivityRecommend.php:97
+#, fuzzy
+msgid "Border color:"
+msgstr "Color minúsculas:"
+
+#: Widget_ActivityRecommend.php:100
+msgid "colorscheme:"
+msgstr "Color:"
+
+#: Widget_ActivityRecommend.php:103
+#, fuzzy
+msgid "Show Header:"
+msgstr "T&iacute;tulo plantilla corta:"
+
+#: Widget_ActivityRecommend.php:107
+#, fuzzy
+msgid "Show Recommendations:"
+msgstr "Campos de registro:"
+
+#: Widget_CommentsFeed.php:5
+#: Widget_CommentsFeed.php:6
+msgid "Facebook Last Comments Feed"
+msgstr "Feed de últimos comentarios:"
+
+#: Widget_CommentsFeed.php:117
+#: Widget_FacebookConnector.php:109
+#: Widget_FriendsFeed.php:111
+#: Widget_LastFriends.php:105
+msgid "Welcome msg:"
+msgstr "Texto cabecera:"
+
+#: Widget_CommentsFeed.php:122
+#: Widget_FriendsFeed.php:116
+#, fuzzy
+msgid "Max comments:"
+msgstr "Comentarios del usuario"
+
+#: Widget_CommentsFeed.php:127
+#: Widget_FacebookConnector.php:119
+#: Widget_FriendsFeed.php:121
+#: Widget_LastFriends.php:115
+#, fuzzy
+msgid "Users photos size:"
+msgstr "Perfil del usuario"
+
+#: Widget_FacebookConnector.php:5
+#, fuzzy
+msgid "Facebook Connector Main Widget"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: Widget_FacebookConnector.php:6
+#, fuzzy
+msgid "Facebook Connector"
+msgstr "Configuraci&oacute;n de Facebook Connector"
+
+#: Widget_FacebookConnector.php:114
+#: Widget_LastFriends.php:110
+#, fuzzy
+msgid "Max users photos:"
+msgstr "Max. fotos:"
+
+#: Widget_FacebookConnector.php:123
+msgid "Login button:"
+msgstr "Facebook Login:"
+
+#: Widget_FacebookConnector.php:143
+#, fuzzy
+msgid "Your theme color:"
+msgstr "Color minúsculas:"
+
+#: Widget_FanBox.php:5
+#, fuzzy
+msgid "Faceboook Fan Box"
+msgstr "Login de Facebook seguro mediante SSL."
+
+#: Widget_FanBox.php:6
+#, fuzzy
+msgid "Facebook Fan Box"
+msgstr "Login de Facebook seguro mediante SSL."
+
+#: Widget_FanBox.php:124
+msgid "CSS:"
+msgstr "CSS:"
+
+#: Widget_FanBox.php:142
+#, fuzzy
+msgid "Connections:"
+msgstr "Opciones de FBConnect"
+
+#: Widget_FanBox.php:147
+#, fuzzy
+msgid "Show stream:"
+msgstr "T&iacute;tulo plantilla corta:"
+
+#: Widget_FriendsFeed.php:5
+#, fuzzy
+msgid "Faceboook Friends Feed"
+msgstr "Perfil Facebook"
+
+#: Widget_FriendsFeed.php:6
+#, fuzzy
+msgid "Facebook Friends Feed"
+msgstr "Perfil Facebook"
+
+#: Widget_LastFriends.php:5
+#, fuzzy
+msgid "Faceboook Last Friends"
+msgstr "Perfil Facebook"
+
+#: Widget_LastFriends.php:6
+#, fuzzy
+msgid "Facebook Last Friends"
+msgstr "Perfil Facebook"
+
+#: Widget_LastUsers.php:5
+#, fuzzy
+msgid "Faceboook Last Users"
+msgstr "Facebook Connector"
+
+#: Widget_LastUsers.php:6
+#, fuzzy
+msgid "Facebook Last Users"
+msgstr "Facebook Connector"
+
+#: Widget_Recommend.php:5
+#, fuzzy
+msgid "Faceboook Recommendations Widget"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: Widget_Recommend.php:6
+#, fuzzy
+msgid "Facebook Recommendations"
+msgstr "Configuraci&oacute;n de Facebook Connector"
+
+#: window.php:8
+#, fuzzy
+msgid "You are not allowed to be here"
+msgstr "No estas autorizdo a borrar esta página"
+
+#: window.php:348
+msgid "Picture"
+msgstr "Imagen"
+
+#: window.php:371
+#, fuzzy
+msgid "Select picture"
+msgstr "P&aacute;gina siguiente"
+
+#: window.php:373
+msgid "No picture"
+msgstr "Sin imagen"
+
+#: window.php:385
+msgid "Width x Height"
+msgstr "Ancho x Alto"
+
+#: window.php:389
+msgid "Effect"
+msgstr "Efecto"
+
+#: window.php:392
+msgid "No effect"
+msgstr "Sin efecto"
+
+#: window.php:393
+msgid "Watermark"
+msgstr "Marca de agua"
+
+#: window.php:394
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: window.php:399
+msgid "Float"
+msgstr "Flotar"
+
+#: window.php:402
+msgid "No float"
+msgstr "No flotar"
+
+#: window.php:403
+msgid "Left"
+msgstr "Izquierda"
+
+#: window.php:404
+#, fuzzy
+msgid "Center"
+msgstr "Comentarios"
+
+#: window.php:405
+#, fuzzy
+msgid "Right"
+msgstr "Alto:"
+
+#: window.php:425
+msgid "Insert"
+msgstr "Insertar"
+
+#: pro/edit-obj.php:119
+msgid "You attempted to edit a post that doesn&#8217;t exist. Perhaps it was deleted?"
+msgstr "Estas intentando editar un post que no existe. Quizas ha sido borrado."
+
+#: pro/edit-obj.php:139
+msgid "Somebody"
+msgstr "Alguien"
+
+#: pro/edit-obj.php:140
+#, php-format
+msgid "Warning: %s is currently editing this post"
+msgstr "Peligro: %s está editando este post"
+
+#: pro/edit-obj.php:149
+msgid "Edit Post"
+msgstr "Editar post"
+
+#: pro/edit-obj.php:152
+msgid "You are not allowed to edit this post."
+msgstr "No estas autorizado a editar este post."
+
+#: pro/edit-obj.php:193
+msgid "You are not allowed to delete this post."
+msgstr "No estas autorizado a borrar este post."
+
+#: pro/edit-obj.php:197
+#: pro/edit-obj.php:200
+msgid "Error in deleting..."
+msgstr "Error al borrar..."
+
+#: pro/fbConnectCanvas.php:73
+#, fuzzy
+msgid "Facebook canvas/tab theme:"
+msgstr "Login de Facebook seguro mediante SSL."
+
+#: pro/fbConnectCanvas.php:94
+msgid "Select the theme to be used on facebook canvas a page tab."
+msgstr "Seleccionar el tema que se utilizará en el canvas de Facebook"
+
+#: pro/fbConnectCanvas.php:110
+msgid "Facebook App. Canvas:"
+msgstr "Facebook App. Canvas:"
+
+#: pro/fbConnectCanvas.php:116
+msgid "Request canvas user Auth.:"
+msgstr ""
+
+#: pro/fbConnectCanvas.php:124
+msgid "Redirect canvas to:"
+msgstr ""
+
+#: pro/fbConnectCanvas.php:135
+#, fuzzy
+msgid "Disable Wordpress RSS feeds:"
+msgstr "Ocultar comentarios de Wordpress:"
+
+#: pro/fbConnectCanvas.php:143
+msgid "Blog URI base:"
+msgstr "Blog URI base:"
+
+#: pro/fbConnectCanvas.php:203
+msgid "Facebook canvas home:"
+msgstr "Facebook canvas home:"
+
+#: pro/fbConnectCanvas.php:206
+msgid "Default facebook canvas home page"
+msgstr "Página de inicio para el canvas Facebook"
+
+#: pro/fbConnectCanvas.php:210
+msgid "Facebook tab home:"
+msgstr "Facebook tab home:"
+
+#: pro/fbConnectCanvas.php:213
+msgid "Default facebook tab home page"
+msgstr "Página de inicio para la pestaña de página Facebook"
+
+#: pro/fbConnectCanvas.php:217
+msgid "Facebook no fan tab:"
+msgstr "Facebook no fan tab:"
+
+#: pro/fbConnectCanvas.php:220
+msgid "Default facebook no fan tab page"
+msgstr "Página por defecto para los usuarios no fans"
+
+#: pro/fbConnectCanvas.php:224
+msgid "No fans thickBox:"
+msgstr "Utilizar emergente para solicitar ser fan:"
+
+#: pro/fbConnectCanvas.php:229
+msgid "Use a ThickBox to lock tab/canvas view."
+msgstr "Utilizar diálogo emergente (Thickbox)  para bloquear el acceso a la pestaña a los no fans."
+
+#: pro/fbConnectCanvas.php:230
+msgid "Head text:"
+msgstr "Texto de cabecera:"
+
+#: pro/fbConnectCanvas.php:233
+msgid "Footer text:"
+msgstr "Texto pie:"
+
+#: pro/fbConnectCanvas.php:237
+msgid "width:"
+msgstr "Ancho:"
+
+#: pro/fbConnectCanvas.php:241
+msgid "height:"
+msgstr "Alto:"
+
+#: pro/fbConnectCanvas.php:245
+msgid "top:"
+msgstr ""
+
+#: pro/fbConnectCorePro.php:192
+msgid "No feed available,please visit our <a href=\""
+msgstr ""
+
+#: pro/fbConnectOfflineOptions.php:36
+msgid "Offline User:"
+msgstr "Usuario offline:"
+
+#: pro/fbConnectOfflineOptions.php:43
+msgid "Offline Session:"
+msgstr "Sesión offline:"
+
+#: pro/fbConnectOfflineOptions.php:49
+msgid "Offline Acess token:"
+msgstr "Access token:"
+
+#: pro/fbConnectOfflineOptions.php:55
+msgid "Box URL:"
+msgstr "Direcci&oacute;n URL:"
+
+#: pro/fbconnect_widget_comments.php:74
+msgid "This page"
+msgstr "Página"
+
+#: pro/fbconnect_widget_comments.php:80
+msgid "Full+Friends"
+msgstr "Todo+Amigos"
+
+#: pro/fbconnect_widget_logincomm.php:43
+msgid "Publish this comment to Facebook"
+msgstr "Publicar el comentario en Facebook"
+
+#: pro/list-obj.php:26
+msgid "You are not allowed to delete this page."
+msgstr "No estas autorizdo a borrar esta página"
+
+#: pro/list-obj.php:74
+msgid "Edit Pages"
+msgstr "Editar páginas"
+
+#: pro/list-obj.php:79
+msgid "Published pages"
+msgstr "Publicar páginas"
+
+#: pro/list-obj.php:80
+msgid "Scheduled pages"
+msgstr "Planificar páginas"
+
+#: pro/list-obj.php:81
+msgid "Pending pages"
+msgstr "Páginas pendientes"
+
+#: pro/list-obj.php:83
+msgid "Private pages"
+msgstr "P&aacute;ginas provadas+"
+
+#: pro/list-obj.php:92
+msgid "Pages"
+msgstr "Páginas"
+
+#: pro/list-obj.php:113
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Buscar resultados para  &#8220;%s&#8221;"
+
+#: pro/list-obj.php:143
+msgid "Your page has been saved."
+msgstr "Tu página ha sido guardada"
+
+#: pro/list-obj.php:143
+msgid "View page"
+msgstr "Ver página"
+
+#: pro/list-obj.php:143
+msgid "Edit page"
+msgstr "Editar página"
+
+#: pro/list-obj.php:177
+msgid "Search Pages"
+msgstr "Buscar páginas"
+
+#: pro/list-obj.php:202
+msgid "&laquo;"
+msgstr ""
+
+#: pro/list-obj.php:203
+msgid "&raquo;"
+msgstr ""
+
+#: pro/list-obj.php:209
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: pro/list-obj.php:219
+#: pro/list-obj.php:257
+msgid "Bulk Actions"
+msgstr ""
+
+#: pro/list-obj.php:220
+#: pro/list-obj.php:258
+msgid "Edit"
+msgstr "Editar"
+
+#: pro/list-obj.php:221
+#: pro/list-obj.php:259
+msgid "Delete"
+msgstr "Borrar"
+
+#: pro/list-obj.php:269
+msgid "No pages found."
+msgstr "No se han encontrado páginas"
+
+#: pro/list-obj.php:301
+msgid "Author"
+msgstr "Autor"
+
+#: pro/list-obj.php:302
+msgid "Submitted"
+msgstr "Enviado"
+
+#: pro/tuentiConnectInterface.php:27
+#, fuzzy
+msgid "At least one of Tuenti Connector options was NOT updated"
+msgstr "Al menos una de las opciones de Facebook Connector no se ha actualizado."
+
+#: pro/tuentiConnectInterface.php:29
+#, fuzzy
+msgid "Tuenti Connector options updated"
+msgstr "Configuraci&oacute;n de Facebook Connector actualizada correctamente"
+
+#: pro/tuentiConnectInterface.php:42
+#, fuzzy
+msgid "Tuenti Configuration"
+msgstr "Actualizar configuracion"
+
+#: pro/tuentiConnectInterface.php:47
+#, fuzzy
+msgid "Tuenti Application Configuration"
+msgstr "Configuración de la aplicaci&oacute;n Facebook:"
+
+#: pro/tuentiConnectInterface.php:50
+#, fuzzy
+msgid "Enable Tuenti login:"
+msgstr "Página de Facebook:"
+
+#: pro/Widget_CommentsBox.php:5
+#: pro/Widget_CommentsBox.php:6
+msgid "Facebook Comments Box"
+msgstr "Facebook Comments Box"
+
+#: pro/Widget_CommentsBox.php:61
+msgid "Workspace Users"
+msgstr "Usuarios del workspace"
+
+#: pro/Widget_CommentsBox.php:74
+msgid "Max items:"
+msgstr "Max. elementos:"
+
+#: pro/Widget_SocialShare.php:5
+#: pro/Widget_SocialShare.php:6
+msgid "Social Share"
+msgstr ""
+
+#~ msgid "Go to Facebook Apps Admin"
+#~ msgstr "Ir a la configuraci&oacute;n de aplicaciones de Facebook "
+
+#~ msgid "Sex"
+#~ msgstr "Sexo"
+
+#~ msgid "Status:"
+#~ msgstr "Estado:"
+
+#~ msgid "Link user avatars to Facebook profiles."
+#~ msgstr "Enlazar avatar de los usuarios con su perfil Facebook."
+
+#, fuzzy
+#~ msgid "Read more..."
+#~ msgstr "Ver m&aacute;s..."
+
+#~ msgid "Community Passport"
+#~ msgstr "Registro en la comunidad"
+
+#~ msgid "Allow notifications?"
+#~ msgstr "Permitir notificaciones Facebook"
+
+#~ msgid "Allow Facebook status update?"
+#~ msgstr "Permitir cambios de estado en Facebook"
+
+#~ msgid "Last visitors"
+#~ msgstr "Últimas visitas"
+
+#~ msgid "Friends on this site"
+#~ msgstr "Amigos en el sitio"
+
+#~ msgid "Advanced"
+#~ msgstr "Avanzadas"
+
+#, fuzzy
+#~ msgid "Custom profile page:"
+#~ msgstr "Personalizar cabecera"
+
+#~ msgid ""
+#~ "Custom user profile URL, %USERID% will be replaced with the Wordpress "
+#~ "user ID."
+#~ msgstr ""
+#~ "La URL personalizada del usuario, %USERID% será reemplazada con el ID de "
+#~ "usaurio de Wordpress."
+
+#, fuzzy
+#~ msgid "Custom registration form URL."
+#~ msgstr "Campos de registro:"
+
+#~ msgid "Home page wall:"
+#~ msgstr "Muro del blog:"
+
+#~ msgid ""
+#~ "The comments writed on the home will be associated to the selected page."
+#~ msgstr ""
+#~ "Los comentarios que se escriban en la página principal del blog se "
+#~ "asociarán a la página seleccionada"
+
+#~ msgid "Short URLs:"
+#~ msgstr "URLs cortas:"
+
+#~ msgid "Select a short URL engine."
+#~ msgstr "Selecciona un motor de generación de URLs cortas"
+
+#~ msgid "Fan page ID:"
+#~ msgstr "ID página de fans:"
+
+#~ msgid "Canvas home, index.php:"
+#~ msgstr "Canvas home, index.php:"
+
+#~ msgid "Force to show index.php theme on canvas"
+#~ msgstr "Forzar a mostrar index.php del tema en el canvas"
+
+#, fuzzy
+#~ msgid "Facebook Connect Access Control"
+#~ msgstr "Facebook Connector"
+
+#~ msgid "Header Image and Color"
+#~ msgstr "Imagen de cabecera y color"
+
+#~ msgid "Close Color Picker"
+#~ msgstr "Selector de color"
+
+#~ msgid "Options saved."
+#~ msgstr "Opciones guardadas"
+
+#~ msgid "Font Color:"
+#~ msgstr "Color de fuente:"
+
+#~ msgid "Any CSS color (%s or %s or %s)"
+#~ msgstr "Color CS S(%s or %s or %s)"
+
+#~ msgid "Upper Color:"
+#~ msgstr "Color mayúsculas:"
+
+#~ msgid "HEX only (%s or %s)"
+#~ msgstr "Solo HEX (%s or %s)"
+
+#~ msgid "Error updating Facebook templates!"
+#~ msgstr "Se ha producido un error al actualizar las plantillas de Facebook!"
+
+#~ msgid "Facebook templates updated! Templates ID:"
+#~ msgstr "Plantillas de Facebook actualizadas!, ID de la platilla:"
+
+#~ msgid "Secure login:"
+#~ msgstr "Login seguro:"
+
+#~ msgid "Facebook Connect Via SSL."
+#~ msgstr "Login de Facebook seguro mediante SSL."
+
+#~ msgid ""
+#~ "No active Facebook template, please activate a template or create a new "
+#~ "one!"
+#~ msgstr ""
+#~ "No hay ninguna plantilla activa, por favor active una plantilla de "
+#~ "Facebook para el env&iacute;o de comentarios."
+
+#~ msgid ""
+#~ "Templates not synchronized with Facebook, write the templates text and "
+#~ "press create templates!"
+#~ msgstr ""
+#~ "No existen plantillas de comentarios en Facebook, modifique la plantilla "
+#~ "de ejemplo y presione el bot&oacute; crear plantilla."
+
+#~ msgid "Active Facebook template ID:"
+#~ msgstr "ID de plantilla activa:"
+
+#~ msgid "Activate template"
+#~ msgstr "Activar plantilla"
+
+#~ msgid "Short story body:"
+#~ msgstr "Cuerpo de plantilla corta:"
+
+#~ msgid "Full story title:"
+#~ msgstr "T&iacute;tulo plantilla larga:"
+
+#~ msgid "Full story body:"
+#~ msgstr "Cuerpo plantilla larga:"
+
+#~ msgid "One line stories template:"
+#~ msgstr "Plantilla de una l&iacute;nea (one line):"
+
+#~ msgid "Short stories template:"
+#~ msgstr "Plantilla corta (Short storie):"
+
+#~ msgid "Title"
+#~ msgstr "T&iacute;tulo"
+
+#~ msgid "Body"
+#~ msgstr "Cuerpo"
+
+#~ msgid "Full stories template:"
+#~ msgstr "Plantilla larga (full storie):"
+
+#~ msgid "Change Facebook status"
+#~ msgstr "Cambiar estado en Facebook"
+
+#~ msgid "The WordPress fbconnect plugin is not active."
+#~ msgstr "El plugin de Facebook Connect para Wordpress no est&aacute; activo."
+
+#~ msgid "Login msg:"
+#~ msgstr "Texto login:"
+
+#~ msgid "Member msg:"
+#~ msgstr "Texto login:"

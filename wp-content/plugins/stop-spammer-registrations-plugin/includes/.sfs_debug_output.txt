@@ -1,0 +1,939 @@
+
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 1
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	
+	Error number: 8
+	Error type: Run-time notices. Indicate that the script encountered something that could indicate an error, but could also happen in the normal course of running a script. 
+	Error Msg: Undefined offset: 2
+	File name: /home/dekhf156/public_html/wp/wp-content/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-checks.php
+	Line Number: 932
+	---------------------
+	

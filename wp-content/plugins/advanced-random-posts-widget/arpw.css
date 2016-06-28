@@ -1,0 +1,64 @@
+/*
+Description: Custom CSS for the Advanced Random Posts Widget.
+Version: 1.1
+Author: Satrya
+License: GPLv2
+*/
+
+.arpw-block ul {
+	list-style: none !important;
+	margin-left: 0 !important;
+	padding-left: 0 !important;
+}
+
+.arpw-block li {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.arpw-block a {
+	display: inline !important;
+	text-decoration: none;
+}
+
+.arpw-block h3 {
+	background: none !important;
+	clear: none;
+	margin-bottom: 0 !important;
+	font-weight: normal;
+	font-size: 12px !important;
+	line-height: 1.5;
+}
+
+.arpw-alignleft {
+	border: 1px solid #eee !important;
+	box-shadow: none !important;
+	display: inline;
+	float: left;
+	margin: 2px 10px 0 0;
+	padding: 3px !important;
+}
+
+.arpw-summary {
+	font-size: 12px;
+}
+
+.arpw-time {
+	color: #bbb;
+	font-size: 11px;
+}
+
+.arpw-clearfix:before,
+.arpw-clearfix:after { 
+	content: ""; 
+	display: table; 
+}
+
+.arpw-clearfix:after { 
+	clear: both; 
+}
+
+.arpw-clearfix { 
+	*zoom: 1;
+}

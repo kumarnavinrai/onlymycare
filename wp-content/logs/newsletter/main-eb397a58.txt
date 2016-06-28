@@ -1,0 +1,40 @@
+21-01-2014 00:21:14 - ERROR - 61707952 - Blocked by transient newsletter_main_engine set 0 seconds ago
+31-05-2014 05:02:04 - ERROR - 63243760 - Blocked by transient newsletter_main_engine set 0 seconds ago
+02-06-2014 08:19:51 - ERROR - 64155536 - mail> Could not instantiate mail function.
+06-06-2014 01:35:22 - ERROR - 66928192 - Blocked by transient newsletter_main_engine set 0 seconds ago
+20-06-2014 05:39:23 - ERROR - 67899336 - mail> Could not instantiate mail function.
+05-07-2014 07:07:27 - ERROR - 67988232 - mail> Could not instantiate mail function.
+07-07-2014 09:25:30 - ERROR - 67101048 - Blocked by transient newsletter_main_engine set 0 seconds ago
+11-07-2014 11:50:25 - ERROR - 67125832 - Blocked by transient newsletter_main_engine set 1 seconds ago
+16-07-2014 19:15:23 - ERROR - 67153216 - Blocked by transient newsletter_main_engine set 0 seconds ago
+25-07-2014 00:29:42 - ERROR - 68091216 - mail> Could not instantiate mail function.
+31-07-2014 11:45:22 - ERROR - 67229960 - Blocked by transient newsletter_main_engine set 0 seconds ago
+10-08-2014 06:26:27 - ERROR - 67277320 - Blocked by transient newsletter_main_engine set 0 seconds ago
+10-08-2014 21:00:27 - ERROR - 67284104 - Blocked by transient newsletter_main_engine set 0 seconds ago
+13-08-2014 17:40:22 - ERROR - 67301768 - Blocked by transient newsletter_main_engine set 0 seconds ago
+22-09-2014 04:11:41 - ERROR - 62397168 - mail> Could not instantiate mail function.
+23-09-2014 17:19:36 - ERROR - 62395048 - mail> Could not instantiate mail function.
+17-10-2014 02:11:58 - ERROR - 38057584 - mail> Could not instantiate mail function.
+26-10-2014 04:19:11 - ERROR - 38161952 - mail> Could not instantiate mail function.
+01-11-2014 08:51:04 - ERROR - 38214224 - mail> Could not instantiate mail function.
+03-12-2014 02:49:09 - ERROR - 39062824 - mail> Could not instantiate mail function.
+24-01-2015 04:38:21 - ERROR - 39349528 - mail> Could not instantiate mail function.
+24-01-2015 04:38:25 - ERROR - 39349560 - mail> Could not instantiate mail function.
+24-01-2015 04:38:31 - ERROR - 39349560 - mail> Could not instantiate mail function.
+24-01-2015 04:38:34 - ERROR - 39349560 - mail> Could not instantiate mail function.
+27-02-2015 15:07:41 - ERROR - 39523632 - mail> Could not instantiate mail function.
+28-02-2015 02:13:19 - ERROR - 39530072 - mail> Could not instantiate mail function.
+04-03-2015 12:28:30 - ERROR - 39559584 - mail> Could not instantiate mail function.
+10-03-2015 16:14:00 - ERROR - 39585872 - mail> Could not instantiate mail function.
+12-03-2015 05:57:24 - ERROR - 39596752 - mail> Could not instantiate mail function.
+12-03-2015 06:08:26 - ERROR - 39596696 - mail> Could not instantiate mail function.
+14-03-2015 18:17:59 - ERROR - 39600424 - mail> Could not instantiate mail function.
+14-03-2015 18:18:04 - ERROR - 39600272 - mail> Could not instantiate mail function.
+20-03-2015 10:28:50 - ERROR - 39633168 - mail> Could not instantiate mail function.
+20-03-2015 10:29:06 - ERROR - 39633024 - mail> Could not instantiate mail function.
+20-03-2015 10:29:18 - ERROR - 39634168 - mail> Could not instantiate mail function.
+20-03-2015 10:29:32 - ERROR - 39633024 - mail> Could not instantiate mail function.
+20-03-2015 10:30:07 - ERROR - 39633024 - mail> Could not instantiate mail function.
+03-04-2015 01:26:46 - ERROR - 39705696 - mail> Could not instantiate mail function.
+03-04-2015 01:32:20 - ERROR - 39706816 - mail> Could not instantiate mail function.
+25-05-2015 12:34:24 - ERROR - 34550296 - mail> Could not instantiate mail function.

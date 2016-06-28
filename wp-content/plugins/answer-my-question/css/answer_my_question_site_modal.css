@@ -1,0 +1,169 @@
+/*YOU MAY OVERWRITE THE STYLES IN THIS FILE WITH YOUR OWN. JUST BE SURE TO BACK BACK IT UP BEFORE YOU UPDATE THE PLUGIN, OR YOU'LL LOSE YOUR CUSTOM STYLES!*/
+
+#answer-my-question-modal-bg{
+width: 100%;
+height: 100%;
+min-height:100%;
+background: #000;
+position: absolute;
+zoom: 1;
+filter: alpha(opacity=50);
+opacity: 0.5;
+z-index: 99998;
+top: 0;
+left: 0;
+display:none;
+}
+
+#answer-my-question-modal{
+margin: 0 auto !important;
+width: 100%;
+left: 0;
+top: 120px;
+position: absolute;
+z-index: 99999;
+display:none;
+}
+
+#answer-my-question-modal .inner{
+width: 629px;
+z-index: 101;
+background:white;
+margin: 0 auto;
+padding: 30px;
+position: relative;
+}
+
+#answer-my-question-modal  h1{
+border-bottom: 2px solid #A1987F;
+font: italic 33px/normal Georgia, sans-serif;
+letter-spacing: 1px;
+text-decoration: none;
+margin: 0 0 10px;
+}
+
+#answer-my-question-modal .close{
+    position: absolute;
+	background: url('../images/icon_close.png') no-repeat 45px 1px;
+	top: 20px;
+	left: 606px;
+	padding: 0 20px 0 0;
+	cursor: pointer;
+	font-size: 12px;
+}
+
+#answer-my-question-modal p{
+    margin-bottom: 1em;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+#answer-my-question-modal #question-form{
+    margin: 40px 0 0;
+}
+
+#answer-my-question-modal #question-form .required{
+    color: red;
+}
+
+#answer-my-question-modal #question-form table td{
+    padding: 0 0 10px;
+    white-space: nowrap;
+}
+
+#answer-my-question-modal #question-form input[type="text"]{
+    width: 520px;
+	border: 2px solid #DEDEDE;
+	padding: 5px;
+	margin: 0 0 0 20px;
+
+}
+
+#answer-my-question-modal #question-form .legend{
+    font-weight: bold;
+    line-height: 35px;
+}
+
+#answer-my-question-modal #question-form .field{
+vertical-align:top;
+font-size: 16px;
+font-family: arial;
+}
+
+#answer-my-question-modal #message-sent{
+text-align: center;
+font-size: 25px;
+margin: 170px;
+display:none;
+}
+
+#answer-my-question-modal #question-form textarea{
+	width: 520px;
+    border: 2px solid #dedede;
+    padding: 5px;
+	height: 187px;
+	margin: 0 0 0 20px;
+	resize: none;
+}
+
+#answer-my-question-modal #send-question{
+float: right;
+cursor:pointer;
+}
+
+#answer-my-question-modal #sending-loader{
+padding: 120px 0 120px 280px;
+display:none;
+}
+
+#answer-my-question-modal label{
+margin: 0 0 0 20px;
+}
+
+#answer-my-question-modal small{
+font-size: 11px;
+display: block;
+}
+
+button.clean-gray {
+background-color: #EEE;
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #EEE), color-stop(100%, #CCC));
+background-image: -webkit-linear-gradient(top, #EEE, #CCC);
+background-image: -moz-linear-gradient(top, #EEE, #CCC);
+background-image: -ms-linear-gradient(top, #EEE, #CCC);
+background-image: -o-linear-gradient(top, #EEE, #CCC);
+background-image: linear-gradient(top, #EEE, #CCC);
+border: 1px solid #CCC;
+border-bottom: 1px solid #BBB;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+-ms-border-radius: 3px;
+-o-border-radius: 3px;
+border-radius: 3px;
+color: #333;
+font: bold 15px "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+line-height: 1;
+padding: 8px 0;
+text-align: center;
+text-shadow: 0 1px 0 #EEE;
+width: 150px;
+float:right;
+}
+
+button.clean-gray:hover {
+background-color: #DDD;
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #DDD), color-stop(100%, #BBB));
+background-image: -webkit-linear-gradient(top, #DDD, #BBB);
+background-image: -moz-linear-gradient(top, #DDD, #BBB);
+background-image: -ms-linear-gradient(top, #DDD, #BBB);
+background-image: -o-linear-gradient(top, #DDD, #BBB);
+background-image: linear-gradient(top, #DDD, #BBB);
+border: 1px solid #BBB;
+border-bottom: 1px solid #999;
+cursor: pointer;
+text-shadow: 0 1px 0 #DDD;
+}
+
+.answer_spacer{
+height:50px;
+}

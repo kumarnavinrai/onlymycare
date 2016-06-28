@@ -1,0 +1,23 @@
+/*YOU MAY OVERWRITE THE STYLES IN THIS FILE WITH YOUR OWN. JUST BE SURE TO BACK BACK IT UP BEFORE YOU UPDATE THE PLUGIN, OR YOU'LL LOSE YOUR CUSTOM STYLES!*/
+
+#amq_full_list{
+background: #EEE;
+padding: 10px;
+}
+
+#amq_full_list .asks{
+
+}
+
+#amq_full_list .question{
+display:block;
+padding: 0 0 20px;
+}
+
+#amq_full_list .answers{
+margin:10px 0 0;
+}
+
+#amq_full_list .answer{
+padding: 0 0 20px;
+}

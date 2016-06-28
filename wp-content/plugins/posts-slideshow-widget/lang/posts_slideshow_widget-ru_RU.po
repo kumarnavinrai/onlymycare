@@ -1,0 +1,179 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Posts Slideshow Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-23 15:55+0700\n"
+"PO-Revision-Date: 2013-04-23 16:04+0700\n"
+"Last-Translator: Vladimir Garagulya <vladimir@shinephp.com>\n"
+"Language-Team: shinephp.com <vlaldimir@shinephp.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../posts-slideshow-widget.php:39
+msgid "Posts Slideshow Widget plugin requires PHP 5.0 or newer."
+msgstr "Для плагина Posts Slideshow Widget требуется PHP 5.0 или выше."
+
+#: ../posts-slideshow-widget.php:39
+#: ../includes/class-posts-slideshow.php:177
+msgid "Please update!"
+msgstr "Пожалуйста обновите!"
+
+#: ../includes/class-posts-slideshow-widget.php:26
+msgid "Recent posts featured images slideshow"
+msgstr "Слайдшоу изображений из свежих статей"
+
+#: ../includes/class-posts-slideshow-widget.php:45
+msgid "Categories"
+msgstr "Категории"
+
+#: ../includes/class-posts-slideshow-widget.php:152
+msgid "No posts found. Please change selection criteria."
+msgstr "Статьи не найдены. Пожалуйста, измените критерии отбора."
+
+#: ../includes/class-posts-slideshow-widget.php:302
+msgid "New title"
+msgstr "Новый заголовок."
+
+#: ../includes/class-posts-slideshow-widget.php:393
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ../includes/class-posts-slideshow-widget.php:401
+msgid "Post Type:"
+msgstr "Тип статьи:"
+
+#: ../includes/class-posts-slideshow-widget.php:423
+msgid "Category:"
+msgstr "Категория:"
+
+#: ../includes/class-posts-slideshow-widget.php:440
+msgid "Tags list (comma separated)"
+msgstr "Список тэгов (через запятую):"
+
+#: ../includes/class-posts-slideshow-widget.php:444
+msgid "Animation:"
+msgstr "Анимация:"
+
+#: ../includes/class-posts-slideshow-widget.php:463
+msgid "Speed:"
+msgstr "Скорость:"
+
+#: ../includes/class-posts-slideshow-widget.php:467
+msgid "Quant of posts:"
+msgstr "Количество статей:"
+
+#: ../includes/class-posts-slideshow-widget.php:471
+msgid "Width:"
+msgstr "Ширина:"
+
+#: ../includes/class-posts-slideshow-widget.php:475
+msgid "Height:"
+msgstr "Высота:"
+
+#: ../includes/class-posts-slideshow-widget.php:479
+msgid "Show post titles:"
+msgstr "Показать заголовки статей:"
+
+#: ../includes/class-posts-slideshow-widget.php:484
+msgid "Adjust colors:"
+msgstr "Подберите цвета:"
+
+#: ../includes/class-posts-slideshow-widget.php:488
+msgid "Post title background:"
+msgstr "Фон заголовка статьи:"
+
+#: ../includes/class-posts-slideshow-widget.php:492
+msgid "Post title:"
+msgstr "Заголовок статьи:"
+
+#: ../includes/class-posts-slideshow-widget.php:496
+msgid "Navigation bar background:"
+msgstr "Фон полосы навигации:"
+
+#: ../includes/class-posts-slideshow.php:75
+msgid "Settings"
+msgstr "Установки:"
+
+#: ../includes/class-posts-slideshow.php:94
+msgid "Posts Slideshow Widget Settings"
+msgstr "Установки Post Slideshow Widget"
+
+#: ../includes/class-posts-slideshow.php:94
+msgid "Posts Slideshow"
+msgstr "Posts Slideshow"
+
+#: ../includes/class-posts-slideshow.php:143
+msgid "Settings saved"
+msgstr "Установки сохранены"
+
+#: ../includes/class-posts-slideshow.php:177
+msgid " requires WordPress 3.0 or newer."
+msgstr " требуется WordPress версии 3.0 или выше"
+
+#: ../includes/settings.php:13
+msgid "Posts Slideshow Widget - Settings"
+msgstr "Posts Slideshow Widget - Установки"
+
+#: ../includes/settings.php:20
+msgid "Slideshow Speed:"
+msgstr "Скорость смены слайдов:"
+
+#: ../includes/settings.php:21
+msgid "seconds"
+msgstr "секунд"
+
+#: ../includes/settings.php:24
+msgid "Max quant of images:"
+msgstr "Максимальное количество изображений:"
+
+#: ../includes/settings.php:28
+msgid "Default quant of images:"
+msgstr "Количество изображений по-умолчанию:"
+
+#: ../includes/settings.php:32
+msgid "Slider width:"
+msgstr "Ширина слайдера:"
+
+#: ../includes/settings.php:36
+msgid "Slider height:"
+msgstr "Высота слайдера:"
+
+#: ../includes/settings.php:40
+msgid "Show post title"
+msgstr "Показать заголовок статьи"
+
+#: ../includes/settings.php:44
+msgid "Post title backgound color:"
+msgstr "Цвет фона заголовка статьи:"
+
+#: ../includes/settings.php:48
+msgid "Post title color:"
+msgstr "Цвет заголовка статьи:"
+
+#: ../includes/settings.php:52
+msgid "Navigation bar backgound color:"
+msgstr "Цвет фона полосы навигации:"
+
+#: ../includes/settings.php:58
+msgid "Update"
+msgstr "Сохранить"
+
+#~ msgid "Edit Post Expire Settings"
+#~ msgstr "Автоблокировка редактирования статей - Опции"
+
+#~ msgid "Edit Post Expire"
+#~ msgstr "Автоблокировка редактирования"
+
+#~ msgid "Edit Post Expire - Options"
+#~ msgstr "Автоблокировки редактирования статей - Опции"
+
+#~ msgid "Block post edit after:"
+#~ msgstr "Заблокировать редактирование после:"
+
+#~ msgid "minutes"
+#~ msgstr "минут"

@@ -1,0 +1,142 @@
+/*------------------------------------------------------------------------------
+
+Howdy! This is the CSS file that makes MP6 blue by
+overriding MP6's default styles.
+
+------------------------------------------------------------------------------*/
+
+
+/**
+ * Color 1: Toolbar & Sidebar
+ */
+
+#adminmenuback,
+#adminmenuwrap,
+#wpadminbar {
+	background: #cae2e7;
+}
+
+
+/**
+ * Color 2: Submenu
+ */
+
+#adminmenu .wp-has-current-submenu .wp-submenu, .no-js li.wp-has-current-submenu:hover .wp-submenu, #adminmenu a.wp-has-current-submenu:focus + .wp-submenu, #adminmenu .wp-has-current-submenu .wp-submenu.sub-open, #adminmenu .wp-has-current-submenu.opensub .wp-submenu {
+	background: #fff;
+}
+
+
+/**
+ * Color 3: Spot color (active menu item, buttons, checkmarks)
+ */
+
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu,
+#adminmenu li.current a.menu-top,
+.folded #adminmenu li.wp-has-current-submenu,
+.folded #adminmenu li.current.menu-top,
+#adminmenu .wp-menu-arrow,
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head,
+#adminmenu .wp-menu-arrow div {
+	background: #0f4260;
+}
+
+.wp-core-ui .button-primary {
+	background: #0f4260;
+	border-color: #0c3349;
+	color: #fff;
+	-webkit-box-shadow: inset 0 1px 0 #124d70, 0 1px 0 rgba(0,0,0,.15);
+	box-shadow: inset 0 1px 0 #124d70, 0 1px 0 rgba(0,0,0,.15);
+}
+
+input[type=radio]:checked:before {
+	background-color: #0f4260;
+}
+input[type=checkbox]:checked:before {
+	color: #0f4260;
+}
+
+#wpadminbar.nojs .ab-top-menu > li.menupop:hover > .ab-item, #wpadminbar .ab-top-menu > li.menupop.hover > .ab-item,
+#wpadminbar .menupop .ab-sub-wrapper, #wpadminbar .shortlink-input,
+#adminmenu li.menu-top:hover, #adminmenu li.opensub > a.menu-top, #adminmenu li > a.menu-top:focus {
+	background: #0f4260;
+}
+
+#wpadminbar.nojs .ab-top-menu > li.menupop:hover > .ab-item, #wpadminbar .ab-top-menu > li.menupop.hover > .ab-item, #wpadminbar .menupop .ab-sub-wrapper, #wpadminbar .shortlink-input, #adminmenu li.menu-top:hover, #adminmenu li.opensub > a.menu-top, #adminmenu li > a.menu-top:focus, #adminmenu .wp-submenu a, .folded #adminmenu a.wp-has-current-submenu:focus + .wp-submenu a, .folded #adminmenu .wp-has-current-submenu .wp-submenu a,
+#adminmenu a:hover, #adminmenu li.menu-top > a:focus, #adminmenu .wp-submenu a:hover, #rightnow a:hover, #media-upload a.del-link:hover, div.dashboard-widget-submit input:hover, .subsubsub a:hover, .subsubsub a.current:hover, .ui-tabs-nav a:hover {
+	color: #fff;
+}
+
+
+
+/**
+ * Color 4: Sidebar text color
+ */
+
+
+#adminmenu .wp-submenu li.current a, .folded #adminmenu a.wp-has-current-submenu:focus + .wp-submenu li.current a, .folded #adminmenu .wp-has-current-submenu .wp-submenu li.current a,
+#adminmenu a, 
+#wpadminbar a.ab-item {
+	color: #0f4260;
+}
+
+
+/**
+ * Color 5: Spot color lighter shade (secondary toolbar dropdowns and button hovers)
+ */
+
+#wpadminbar .quicklinks .menupop ul.ab-sub-secondary,
+#adminmenu .wp-submenu, .folded #adminmenu a.wp-has-current-submenu:focus + .wp-submenu, .folded #adminmenu .wp-has-current-submenu .wp-submenu {
+	background: #215878;
+}
+
+.wp-core-ui .button-primary:hover {
+	background: #215878;
+	border-color: #0c3349;
+	-webkit-box-shadow: inset 0 1px 0 #3b7495, 0 1px 0 rgba(0,0,0,.15);
+	box-shadow: inset 0 1px 0 #3b7495, 0 1px 0 rgba(0,0,0,.15);
+}
+
+.wp-core-ui .button-primary:active {
+	background: #215878;
+	border-color: #0c3349;
+	-webkit-box-shadow: inset 0 2px 5px -3px rgba( 0, 0, 0, 0.5 );
+ 	box-shadow: inset 0 2px 5px -3px rgba( 0, 0, 0, 0.5 );
+}
+
+#adminmenu .wp-submenu li.current, #adminmenu .wp-submenu li.current a, #adminmenu .wp-submenu li.current a:hover {
+	color: #215878;
+}
+
+#adminmenu li.wp-has-submenu.wp-not-current-submenu.opensub:hover:after {
+	border-right-color: #215878;
+}
+
+#wpadminbar .ab-top-menu > li:hover > .ab-item, #wpadminbar .ab-top-menu > li.hover > .ab-item, #wpadminbar .ab-top-menu > li > .ab-item:focus, #wpadminbar.nojq .quicklinks .ab-top-menu > li > .ab-item:focus {
+	color: #215878;
+}
+
+
+/**
+ * Color 6: Icon color
+ */
+
+#adminmenu div.wp-menu-image:before,
+#wpadminbar .ab-icon,
+#wpadminbar .ab-item:before,
+#wpadminbar #adminbarsearch:before,
+#collapse-menu,
+#collapse-button div:after,
+#wpadminbar #wp-admin-bar-my-sites>.ab-item:before,
+#wpadminbar #wp-admin-bar-site-name>.ab-item:before {
+	color: #437d9e;
+}
+
+
+/**
+ * Color 7: Sidebar submenu inactive text color
+ */
+ 
+#adminmenu .wp-has-current-submenu .wp-submenu a, .no-js li.wp-has-current-submenu:hover .wp-submenu a, #adminmenu a.wp-has-current-submenu:focus + .wp-submenu a, #adminmenu .wp-has-current-submenu .wp-submenu.sub-open a, #adminmenu .wp-has-current-submenu.opensub .wp-submenu a {
+	color: #999;
+}
+
