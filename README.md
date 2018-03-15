@@ -1,3 +1,3 @@
-# Wordpress Healthcare and Home Remedies Website
+# Healthcare and Home Remedies Website in Wordpress 
 
 ![screenshot](onlymycare.png)
